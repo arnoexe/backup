@@ -7,7 +7,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://github.com/arnoexe/backup/blob/main/assets/Philip_Fry.png?raw=true"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/Philip_Fry.png"
     },
     "gender": "Male",
     "species": "Human",
@@ -90,7 +90,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://upload.wikimedia.org/wikipedia/en/d/d4/Turanga_Leela.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/Turanga_Leela.png"
     },
     "age": "32",
     "gender": "Female",
@@ -129,7 +129,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://upload.wikimedia.org/wikipedia/en/a/a6/Bender_Rodriguez.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/Bender_Rodriguez.png"
     },
     "age": "25",
     "gender": "Male",
@@ -282,7 +282,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://upload.wikimedia.org/wikipedia/en/0/0f/FuturamaProfessorFarnsworth.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/FuturamaProfessorFarnsworth.png"
     },
     "age": "210",
     "gender": "Male",
@@ -335,7 +335,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://static.wikia.nocookie.net/enfuturama/images/9/94/AmyWong.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/AmyWong.png"
     },
     "age": "30",
     "gender": "Female",
@@ -361,7 +361,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://static.wikia.nocookie.net/enfuturama/images/0/0d/Hermes.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/Character_Hermes-ezgif.com-webp-to-png-converter.png"
     },
     "age": "52",
     "gender": "Male",
@@ -390,7 +390,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://static.wikia.nocookie.net/enfuturama/images/d/d9/Mom.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/Mom-ezgif.com-webp-to-png-converter.png"
     },
     "age": "150",
     "gender": "Female",
@@ -410,7 +410,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://static.wikia.nocookie.net/enfuturama/images/4/4a/Dr_John_Zoidberg.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/Zoidberg-ezgif.com-webp-to-png-converter.png"
     },
     "age": "40",
     "gender": "Male",
@@ -436,7 +436,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://static.wikia.nocookie.net/enfuturama/images/7/73/Zapp-Brannigan.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/Zapp_Brannigan_-_Official_Character_Promo-ezgif.com-webp-to-png-converter.png"
     },
     "age": "40",
     "gender": "Male",
@@ -468,7 +468,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://static.wikia.nocookie.net/enfuturama/images/c/c5/Lurr.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/Lurr-ezgif.com-webp-to-png-converter.png"
     },
     "age": "Unknown",
     "gender": "Male",
@@ -493,7 +493,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://static.wikia.nocookie.net/enfuturama/images/1/10/Scruffy.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/Scruffy-ezgif.com-webp-to-png-converter.png"
     },
     "age": "53",
     "gender": "Male",
@@ -512,7 +512,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://static.wikia.nocookie.net/enfuturama/images/7/7e/CubertFarnsworth.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/CubertFarnsworth-ezgif.com-webp-to-png-converter.png"
     },
     "age": "13",
     "gender": "Male",
@@ -531,7 +531,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://static.wikia.nocookie.net/enfuturama/images/8/88/Kif-Kroker.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/Kif-Kroker-ezgif.com-webp-to-png-converter.png"
     },
     "age": "32",
     "gender": "Male",
@@ -550,7 +550,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://static.wikia.nocookie.net/enfuturama/images/d/d7/Dwight.png"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/Dwight-ezgif.com-webp-to-png-converter.png"
     },
     "age": "12",
     "gender": "Male",
@@ -569,7 +569,7 @@
     },
     "images": {
       "head-shot": "",
-      "main": "https://static.wikia.nocookie.net/enfuturama/images/e/e4/LaBarbara_Conrad-1-.jpg"
+      "main": "https://raw.githubusercontent.com/arnoexe/backup/refs/heads/main/assets/LaBarbara_Conrad-1--ezgif.com-webp-to-png-converter.png"
     },
     "age": "35",
     "gender": "Female",

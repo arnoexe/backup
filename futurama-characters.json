@@ -415,6 +415,7 @@
     "age": "40",
     "gender": "Male",
     "species": "Decapodian",
+    "homePlanet": "Decapod 10",
     "occupation": "Staff doctor",
     "sayings": [
       "My name isn't Slick, it's Zoidberg. John fucking Zoidberg!!",
@@ -441,6 +442,7 @@
     "age": "40",
     "gender": "Male",
     "species": "Human",
+    "homePlanet": "Earth",
     "occupation": "Captain",
     "sayings": [
       "All good things must come to an end, preferably in a humongous explosion.",
@@ -473,6 +475,7 @@
     "age": "Unknown",
     "gender": "Male",
     "species": "Omicronian",
+    "homePlanet": "Persei 8",
     "occupation": "Ruler of Omicron Persei 8",
     "sayings": [
       "Okay, Yivo showed us a good time. No one's denying that, but shklee hasn't offered our universe any kind of commitment, and we're 14 billion years old - That is too old to play the field.",
@@ -498,6 +501,7 @@
     "age": "53",
     "gender": "Male",
     "species": "Human",
+    "homePlanet": "Earth",
     "occupation": "Janitor",
     "sayings": [
       "I'm Scruffy. The janitor."
@@ -517,6 +521,7 @@
     "age": "13",
     "gender": "Male",
     "species": "Human",
+    "homePlanet": "Earth",
     "occupation": "Co-owner of Awesome Express",
     "sayings": [
       "What? You've never seen a genius's wiener before?"
@@ -536,6 +541,7 @@
     "age": "32",
     "gender": "Male",
     "species": "Amphibiosans",
+    "homePlanet": "Amphibios 9",
     "occupation": "DOOP (Executive Officer) ",
     "sayings": [
       "I love it out here, Amy. I feel so manly. I have a blister, I-I spit! A-And of course, I tell no one my feelings, until I write them in my dairy."
@@ -555,6 +561,7 @@
     "age": "12",
     "gender": "Male",
     "species": "Human",
+    "homePlanet": "Earth",
     "occupation": "Co-owner of Awesome Express",
     "sayings": [
       "I'm gonna take this and buy five shares of Amazon.com"
@@ -574,7 +581,8 @@
     "age": "35",
     "gender": "Female",
     "species": "Human",
-    "occupation": "",
+    "homePlanet": "Earth",
+    "occupation": "Wife of Hermes",
     "sayings": [
       "All in favor of the Jamoka-Thunderclap? That would be me."
     ],
